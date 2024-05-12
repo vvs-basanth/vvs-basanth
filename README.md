@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @vvs-basanth
+- 👀 I’m interested in full stack development, automation, and exploring Rust.
+- 🌱 I’m currently learning Rust to enhance my skills. #rustacean
+- 💞️ I’m looking to collaborate on exciting open-source projects and innovative tech initiatives.
+- 📫 How to reach me: [vvs.pedapati@hotmail.com]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love outdoor adventures and experimenting with new technologies!
+- 🎾 I am a national level Lawn Tennis Player as well.
